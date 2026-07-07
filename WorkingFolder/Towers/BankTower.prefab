@@ -1,0 +1,197 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8831454939577590441
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -2863309627404316148, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: srColorInfos.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -2863309627404316148, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: srColorInfos.Array.data[0].colorType
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: -2863309627404316148, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: srColorInfos.Array.data[0].sr.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -2863309627404316148, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: 'srColorInfos.Array.data[0].sr.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2999060795487077008}
+    - target: {fileID: 217744931673558233, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_Name
+      value: BankTower
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583919452618817896, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583919452618817896, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583919452618817896, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583919452618817896, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.94491
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583919452618817896, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.34948
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583919452618817896, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583919452618817896, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583919452618817896, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583919452618817896, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583919452618817896, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583919452618817896, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583919452618817896, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583919452618817896, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3932059285704090573, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -2135585597343286014, guid: 5aa8b770bc43046bc8d993d0d5b7f4a5, type: 3}
+    - target: {fileID: 4915905723796144132, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: 'outlines.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2612877888679398338}
+    - target: {fileID: 4946157385477118404, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -2135585597343286014, guid: 5aa8b770bc43046bc8d993d0d5b7f4a5, type: 3}
+    - target: {fileID: 4946157385477118404, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4946157385477118404, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_Color.g
+      value: 0.7819374
+      objectReference: {fileID: 0}
+    - target: {fileID: 4946157385477118404, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5559747839691229112, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 5559747839691229112, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.25
+      objectReference: {fileID: 0}
+    - target: {fileID: 5985684808392171577, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -712631045867808456, guid: b670ab75dde984907b8570040daa08c5, type: 3}
+    - target: {fileID: 6153705275651756717, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: availableTargettingModes
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6167678076647994660, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: juiceBody
+      value: 
+      objectReference: {fileID: 2875321313187620408}
+    - target: {fileID: 6831239223682623851, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -712631045867808456, guid: b670ab75dde984907b8570040daa08c5, type: 3}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 217744931673558233, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6370930997488113137}
+  m_SourcePrefab: {fileID: 100100000, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+--- !u!212 &2612877888679398338 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 6831239223682623851, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+  m_PrefabInstance: {fileID: 8831454939577590441}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &2875321313187620408 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6730789046333490321, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+  m_PrefabInstance: {fileID: 8831454939577590441}
+  m_PrefabAsset: {fileID: 0}
+--- !u!212 &2999060795487077008 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 5985684808392171577, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+  m_PrefabInstance: {fileID: 8831454939577590441}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &8757870310317846128 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 217744931673558233, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+  m_PrefabInstance: {fileID: 8831454939577590441}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &6370930997488113137
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8757870310317846128}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a64c0da0244a944ba4e2db9864dfd2d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
+  doubleAttackOverride: 0
+  rotateable: 0
+  rotateBodyWhenAttacking: 1
+  id: 22
+  cost: 0
+  attackWithoutTarget: 0
+  onlyShowRangeWhenHoldingTowerTool: 0
+  onlyAttackWhenWaveIsActive: 0
+  onDamageJuiceModifier: 1
+  lightningChainCount: 5
+  baseBounceCount: 1
+  basePierceCount: 1
+  bulletSpawnTransform: {fileID: 2875321313187620408}
+  damageTypeFlags: 512
+  tags: 
+  toolTipTags: 
+  craftingRequiredTowers: 
+  canBeCharged: 0
+  chargeAmount: 0
+  canBeBuff: 1
+  buffAmount: 0
+  baseCooldown: 1000
+  baseDamage: 0
+  baseRange: 2
+  baseCritChance: 0
+  baseAOESize: 1
+  enemyValueIncrease: 1

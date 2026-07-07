@@ -1,0 +1,775 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2dad0944b6e467a4d87e77b1f0ee60e9, type: 3}
+  m_Name: WaveDataSO_Generated 27
+  m_EditorClassIdentifier: Assembly-CSharp::WaveDataSO
+  waves:
+  - enemyDatas:
+    - enemyTag: 9
+      count: 1
+      spawnGroup: 0
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 0
+      count: 2
+      spawnGroup: 1
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    totalWaveValue: 7
+  - enemyDatas:
+    - enemyTag: 5
+      count: 3
+      spawnGroup: 0
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 4
+      count: 1
+      spawnGroup: 1
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    totalWaveValue: 11
+  - enemyDatas:
+    - enemyTag: 2
+      count: 3
+      spawnGroup: 0
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 9
+      count: 2
+      spawnGroup: 1
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    totalWaveValue: 16
+  - enemyDatas:
+    - enemyTag: 9
+      count: 1
+      spawnGroup: 0
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 3
+      count: 4
+      spawnGroup: 1
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 4
+      count: 1
+      spawnGroup: 2
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    totalWaveValue: 21
+  - enemyDatas:
+    - enemyTag: 5
+      count: 4
+      spawnGroup: 0
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 9
+      count: 1
+      spawnGroup: 1
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 2
+      count: 1
+      spawnGroup: 2
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 1
+      count: 1
+      spawnGroup: 3
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    totalWaveValue: 26
+  - enemyDatas:
+    - enemyTag: 2
+      count: 2
+      spawnGroup: 0
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 3
+      count: 1
+      spawnGroup: 1
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 0
+      count: 6
+      spawnGroup: 2
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 9
+      count: 3
+      spawnGroup: 3
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    totalWaveValue: 31
+  - enemyDatas:
+    - enemyTag: 9
+      count: 2
+      spawnGroup: 0
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 7
+      count: 3
+      spawnGroup: 1
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 8
+      count: 6
+      spawnGroup: 2
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 3
+      count: 1
+      spawnGroup: 3
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    totalWaveValue: 36
+  - enemyDatas:
+    - enemyTag: 5
+      count: 9
+      spawnGroup: 0
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 2
+      count: 1
+      spawnGroup: 1
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 8
+      count: 1
+      spawnGroup: 2
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 3
+      count: 3
+      spawnGroup: 3
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 7
+      count: 4
+      spawnGroup: 4
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    totalWaveValue: 41
+  - enemyDatas:
+    - enemyTag: 2
+      count: 2
+      spawnGroup: 0
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 7
+      count: 3
+      spawnGroup: 1
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 4
+      count: 3
+      spawnGroup: 2
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 0
+      count: 10
+      spawnGroup: 3
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 5
+      count: 1
+      spawnGroup: 4
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 9
+      count: 1
+      spawnGroup: 5
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    totalWaveValue: 47
+  - enemyDatas:
+    - enemyTag: 9
+      count: 3
+      spawnGroup: 0
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 1
+      count: 1
+      spawnGroup: 1
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 3
+      count: 1
+      spawnGroup: 2
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 7
+      count: 2
+      spawnGroup: 3
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 2
+      count: 8
+      spawnGroup: 4
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 5
+      count: 1
+      spawnGroup: 5
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    totalWaveValue: 53
+  - enemyDatas:
+    - enemyTag: 5
+      count: 3
+      spawnGroup: 0
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 7
+      count: 2
+      spawnGroup: 1
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 0
+      count: 11
+      spawnGroup: 2
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 3
+      count: 3
+      spawnGroup: 3
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 1
+      count: 1
+      spawnGroup: 4
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 4
+      count: 2
+      spawnGroup: 5
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    totalWaveValue: 59
+  - enemyDatas:
+    - enemyTag: 2
+      count: 1
+      spawnGroup: 0
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 0
+      count: 11
+      spawnGroup: 1
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 9
+      count: 1
+      spawnGroup: 2
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 1
+      count: 2
+      spawnGroup: 3
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 8
+      count: 2
+      spawnGroup: 4
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 3
+      count: 3
+      spawnGroup: 5
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 7
+      count: 2
+      spawnGroup: 6
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    totalWaveValue: 65
+  - enemyDatas:
+    - enemyTag: 9
+      count: 2
+      spawnGroup: 0
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 4
+      count: 3
+      spawnGroup: 1
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 7
+      count: 4
+      spawnGroup: 2
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 8
+      count: 2
+      spawnGroup: 3
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 3
+      count: 1
+      spawnGroup: 4
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 5
+      count: 2
+      spawnGroup: 5
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 0
+      count: 20
+      spawnGroup: 6
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 2
+      count: 6
+      spawnGroup: 7
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    totalWaveValue: 72
+  - enemyDatas:
+    - enemyTag: 7
+      count: 2
+      spawnGroup: 0
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 0
+      count: 14
+      spawnGroup: 1
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 4
+      count: 2
+      spawnGroup: 2
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 5
+      count: 2
+      spawnGroup: 3
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 3
+      count: 2
+      spawnGroup: 4
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 8
+      count: 1
+      spawnGroup: 5
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 9
+      count: 2
+      spawnGroup: 6
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 1
+      count: 3
+      spawnGroup: 7
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    totalWaveValue: 79
+  - enemyDatas:
+    - enemyTag: 3
+      count: 4
+      spawnGroup: 0
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 5
+      count: 4
+      spawnGroup: 1
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 2
+      count: 4
+      spawnGroup: 2
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 1
+      count: 1
+      spawnGroup: 3
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 4
+      count: 3
+      spawnGroup: 4
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 8
+      count: 5
+      spawnGroup: 5
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 0
+      count: 24
+      spawnGroup: 6
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 7
+      count: 3
+      spawnGroup: 7
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    totalWaveValue: 86
+  - enemyDatas:
+    - enemyTag: 0
+      count: 15
+      spawnGroup: 0
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 9
+      count: 1
+      spawnGroup: 1
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 1
+      count: 4
+      spawnGroup: 2
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 8
+      count: 1
+      spawnGroup: 3
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 7
+      count: 3
+      spawnGroup: 4
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 3
+      count: 1
+      spawnGroup: 5
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 5
+      count: 2
+      spawnGroup: 6
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 4
+      count: 2
+      spawnGroup: 7
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 2
+      count: 1
+      spawnGroup: 0
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    totalWaveValue: 93
+  - enemyDatas:
+    - enemyTag: 7
+      count: 4
+      spawnGroup: 0
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 3
+      count: 2
+      spawnGroup: 1
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 9
+      count: 2
+      spawnGroup: 2
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 5
+      count: 2
+      spawnGroup: 3
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 4
+      count: 3
+      spawnGroup: 4
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 0
+      count: 20
+      spawnGroup: 5
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 1
+      count: 3
+      spawnGroup: 6
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 2
+      count: 2
+      spawnGroup: 7
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 8
+      count: 2
+      spawnGroup: 0
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    totalWaveValue: 100
+  - enemyDatas:
+    - enemyTag: 3
+      count: 1
+      spawnGroup: 0
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 9
+      count: 3
+      spawnGroup: 1
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 7
+      count: 3
+      spawnGroup: 2
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 2
+      count: 3
+      spawnGroup: 3
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 4
+      count: 2
+      spawnGroup: 4
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 8
+      count: 3
+      spawnGroup: 5
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 1
+      count: 4
+      spawnGroup: 6
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 0
+      count: 20
+      spawnGroup: 7
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 5
+      count: 1
+      spawnGroup: 0
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    totalWaveValue: 107
+  - enemyDatas:
+    - enemyTag: 0
+      count: 26
+      spawnGroup: 0
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 3
+      count: 4
+      spawnGroup: 1
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 5
+      count: 3
+      spawnGroup: 2
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 1
+      count: 3
+      spawnGroup: 3
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 4
+      count: 2
+      spawnGroup: 4
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 8
+      count: 2
+      spawnGroup: 5
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 2
+      count: 5
+      spawnGroup: 6
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 9
+      count: 3
+      spawnGroup: 7
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 7
+      count: 4
+      spawnGroup: 0
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    totalWaveValue: 115
+  - enemyDatas:
+    - enemyTag: 7
+      count: 4
+      spawnGroup: 0
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 8
+      count: 5
+      spawnGroup: 1
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 2
+      count: 3
+      spawnGroup: 2
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 5
+      count: 3
+      spawnGroup: 3
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 0
+      count: 27
+      spawnGroup: 4
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 3
+      count: 1
+      spawnGroup: 5
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 4
+      count: 6
+      spawnGroup: 6
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 1
+      count: 3
+      spawnGroup: 7
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    - enemyTag: 9
+      count: 2
+      spawnGroup: 0
+      spawnRadius: 0.3
+      startDelay: 0
+      intervalDelay: 1
+    totalWaveValue: 123

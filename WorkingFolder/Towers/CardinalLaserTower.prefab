@@ -1,0 +1,269 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5069707624453193469
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -2863309627404316148, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: srColorInfos.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -2863309627404316148, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: srColorInfos.Array.data[0].colorType
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: -2863309627404316148, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: srColorInfos.Array.data[0].sr.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -2863309627404316148, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: 'srColorInfos.Array.data[0].sr.Array.data[0]'
+      value: 
+      objectReference: {fileID: 1534131703389740740}
+    - target: {fileID: 217744931673558233, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_Name
+      value: CardinalLaserTower
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583919452618817896, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583919452618817896, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583919452618817896, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583919452618817896, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.87465
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583919452618817896, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.21487
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583919452618817896, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583919452618817896, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583919452618817896, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583919452618817896, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583919452618817896, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583919452618817896, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583919452618817896, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583919452618817896, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4915905723796144132, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: description
+      value: Shoots Lasers
+      objectReference: {fileID: 0}
+    - target: {fileID: 4915905723796144132, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: displayName
+      value: Laser Tower
+      objectReference: {fileID: 0}
+    - target: {fileID: 4915905723796144132, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: 'outlines.Array.data[0]'
+      value: 
+      objectReference: {fileID: 1771700089477027734}
+    - target: {fileID: 4946157385477118404, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4946157385477118404, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4946157385477118404, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_Color.r
+      value: 0.8585048
+      objectReference: {fileID: 0}
+    - target: {fileID: 5985684808392171577, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -5177388603050735206, guid: cd8c90883a099d740a3480b34a10762e, type: 3}
+    - target: {fileID: 5985684808392171577, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_Color.b
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5985684808392171577, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5985684808392171577, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_Color.r
+      value: 0.5107899
+      objectReference: {fileID: 0}
+    - target: {fileID: 6153705275651756717, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: useLOS
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6167678076647994660, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: juiceBody
+      value: 
+      objectReference: {fileID: 1960095808146864748}
+    - target: {fileID: 6831239223682623851, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -5177388603050735206, guid: cd8c90883a099d740a3480b34a10762e, type: 3}
+    m_RemovedComponents: []
+    m_RemovedGameObjects:
+    - {fileID: 6625289143177847676, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 217744931673558233, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6840858393566045094}
+    - targetCorrespondingSourceObject: {fileID: 217744931673558233, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5614298986330713621}
+    - targetCorrespondingSourceObject: {fileID: 217744931673558233, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1180534095390517959}
+    - targetCorrespondingSourceObject: {fileID: 217744931673558233, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 9032695643962130468}
+  m_SourcePrefab: {fileID: 100100000, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+--- !u!212 &1534131703389740740 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 5985684808392171577, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+  m_PrefabInstance: {fileID: 5069707624453193469}
+  m_PrefabAsset: {fileID: 0}
+--- !u!212 &1771700089477027734 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 6831239223682623851, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+  m_PrefabInstance: {fileID: 5069707624453193469}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1960095808146864748 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6730789046333490321, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+  m_PrefabInstance: {fileID: 5069707624453193469}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &4998623838952780324 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 217744931673558233, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+  m_PrefabInstance: {fileID: 5069707624453193469}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &6840858393566045094
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4998623838952780324}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 66080641f495bb9439922681093a842f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
+  doubleAttackOverride: 0
+  rotateable: 0
+  rotateBodyWhenAttacking: 1
+  id: 27
+  cost: 2
+  attackWithoutTarget: 0
+  onlyShowRangeWhenHoldingTowerTool: 0
+  onlyAttackWhenWaveIsActive: 0
+  onDamageJuiceModifier: 1
+  lightningChainCount: 5
+  baseBounceCount: 0
+  basePierceCount: 1
+  bulletSpawnTransform: {fileID: 1960095808146864748}
+  damageTypeFlags: 16
+  tags: 04000000
+  toolTipTags: 
+  craftingRequiredTowers: 
+  canBeCharged: 1
+  chargeAmount: 0
+  canBeBuff: 1
+  buffAmount: 0
+  baseCooldown: 1.5
+  baseDamage: 2
+  baseRange: 4
+  baseCritChance: 0
+  baseAOESize: 0
+  laserMode: 0
+  bounceDelayPerUnit: 0.01
+  bounceSurfaceOffset: 0.01
+  bounceAngleRandomRange: 10
+  bounceWidthFalloffPerBounce: 0.1
+  wallHitMinParticles: 2
+  wallHitMaxParticles: 4
+  initialWallExitStep: 0.05
+  maxInitialWallExitDistance: 2
+  initialWallExitPadding: 0.01
+  segmentMaxDistance: 50
+  bodyRotationLerpSpeed: 30
+  idleBodySweepAngle: 12
+  idleBodySweepSpeed: 2
+--- !u!114 &5614298986330713621
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4998623838952780324}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 663461bba6f3ee14a9f6fb74ffa656ee, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::BurnEffect
+  active: 0
+  effectProbability: 1
+  burnStacks: 1
+--- !u!114 &1180534095390517959
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4998623838952780324}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa61d971d98554e83b111405077957e9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
+  active: 0
+  effectProbability: 1
+  duration: 3
+--- !u!114 &9032695643962130468
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4998623838952780324}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 72b332a11d62644718210d6184d45bf1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ShockEffect
+  active: 0
+  effectProbability: 1
+  shockStacks: 3

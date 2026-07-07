@@ -1,0 +1,272 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6154532143021027668
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -2863309627404316148, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: srColorInfos.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -2863309627404316148, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: srColorInfos.Array.data[0].colorType
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: -2863309627404316148, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: srColorInfos.Array.data[0].sr.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -2863309627404316148, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: 'srColorInfos.Array.data[0].sr.Array.data[0]'
+      value: 
+      objectReference: {fileID: 466165436394180973}
+    - target: {fileID: 217744931673558233, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_Name
+      value: Flamethrower
+      objectReference: {fileID: 0}
+    - target: {fileID: 304403461982435359, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_CompositeOperation
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583919452618817896, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583919452618817896, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583919452618817896, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583919452618817896, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.87465
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583919452618817896, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.21487
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583919452618817896, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583919452618817896, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583919452618817896, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583919452618817896, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583919452618817896, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583919452618817896, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583919452618817896, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3583919452618817896, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4915905723796144132, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: 'outlines.Array.data[0]'
+      value: 
+      objectReference: {fileID: 838836668058081343}
+    - target: {fileID: 4946157385477118404, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_FlipY
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4946157385477118404, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4946157385477118404, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_Color.g
+      value: 0.5082709
+      objectReference: {fileID: 0}
+    - target: {fileID: 4946157385477118404, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5985684808392171577, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 7482667652216324306, guid: 9828efe7d40a3814ca24a5ad9401d9e9, type: 3}
+    - target: {fileID: 5985684808392171577, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5985684808392171577, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_Color.g
+      value: 0.6008154
+      objectReference: {fileID: 0}
+    - target: {fileID: 5985684808392171577, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6167678076647994660, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: juiceBody
+      value: 
+      objectReference: {fileID: 576982581362406853}
+    - target: {fileID: 6167678076647994660, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: maximumBodyDistance
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6625289143177847676, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_Layer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6831239223682623851, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 7482667652216324306, guid: 9828efe7d40a3814ca24a5ad9401d9e9, type: 3}
+    m_RemovedComponents: []
+    m_RemovedGameObjects:
+    - {fileID: 6625289143177847676, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 217744931673558233, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7378554440247560388}
+    - targetCorrespondingSourceObject: {fileID: 217744931673558233, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3442588993104685238}
+  m_SourcePrefab: {fileID: 100100000, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+--- !u!212 &466165436394180973 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 5985684808392171577, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+  m_PrefabInstance: {fileID: 6154532143021027668}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &576982581362406853 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6730789046333490321, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+  m_PrefabInstance: {fileID: 6154532143021027668}
+  m_PrefabAsset: {fileID: 0}
+--- !u!212 &838836668058081343 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 6831239223682623851, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+  m_PrefabInstance: {fileID: 6154532143021027668}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &6227598386102975885 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 217744931673558233, guid: b5f4f37a25ae97d44a7611b39ea36bcc, type: 3}
+  m_PrefabInstance: {fileID: 6154532143021027668}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &7378554440247560388
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6227598386102975885}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 663461bba6f3ee14a9f6fb74ffa656ee, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
+  active: 1
+  effectProbability: 0.6
+  stackMode: 1
+  constantStacks: 1
+  randomMinStacks: 1
+  randomMaxStacks: 3
+--- !u!114 &3442588993104685238
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6227598386102975885}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bfa844ec9d7848041aa831b5d07a3448, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ProjectileTower
+  doubleAttackOverride: 0
+  rotateable: 0
+  rotateBodyWhenAttacking: 1
+  id: 5
+  cost: 5
+  attackWithoutTarget: 0
+  showDamageInfo: 1
+  damageInfoPrefixOverride: 
+  showCooldownInfo: 1
+  cooldownInfoPrefixOverride: 
+  showRangeInfo: 1
+  rangeInfoPrefixOverride: 
+  onlyShowRangeWhenHoldingTowerTool: 0
+  onlyAttackWhenWaveIsActive: 0
+  onDamageJuiceModifier: 0.1
+  lightningChainCount: 5
+  baseBounceCount: 1
+  basePierceCount: 1
+  bulletSpawnTransform: {fileID: 576982581362406853}
+  damageTypeFlags: 32
+  tags: 03000000
+  toolTipTags: 06000000
+  craftingRequiredTowers: 
+  canBeCharged: 1
+  chargeAmount: 0
+  canBeBuff: 1
+  buffAmount: 0
+  baseCooldown: 0.1
+  baseDamage: 0.1
+  baseRange: 3
+  baseCritChance: 0
+  baseAOESize: 1
+  projectileTowerMode: 0
+  projectileSpeedMode: 1
+  bulletSpeed: 10
+  projectileMinSpeed: 5
+  projectileMaxSpeed: 11
+  projectileAccelerationMode: 1
+  projectileAcceleration: 1
+  projectileAccelerationMin: -1
+  projectileAccelerationMax: -2
+  projectileType: 0
+  pierceCountMode: 0
+  pierceCount: 1
+  pierceCountMin: 1
+  pierceCountMax: 1
+  triggerOnHitVfx: 1
+  enableProjectileParticleVfx: 0
+  projectileLifetimeModifier: 1
+  projectileLifetimeMode: 0
+  fixedProjectileLifetime: 1.2
+  projectileSizeMultiplierMode: 1
+  projectileSizeMultiplier: 2
+  projectileSizeMultiplierMin: 1
+  projectileSizeMultiplierMax: 1.5
+  customColor: 1
+  projectileColorMode: 1
+  projectileConstantColorType: 7
+  projectileColorMin: {r: 1, g: 0.6342867, b: 0, a: 0.16470589}
+  projectileColorMax: {r: 1, g: 0.22934662, b: 0, a: 0.25490198}
+  projectileAlphaOverride: 1
+  shotsPerAttack: 3
+  randomArc: 1
+  degreesPerShot: 30
+  random: 0
+  manualTargetDecayEnabled: 0
+  manualTargetDecayRadius: 0.5
+  homingSteeringSpeed: 360
+  homingRetargetting: 0
+  bodyRotationLerpSpeed: 30
+  idleBodySweepAngle: 12
+  idleBodySweepSpeed: 2

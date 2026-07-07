@@ -1,0 +1,160 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b45eeb3c9c3944c40b30c07927d464d9, type: 3}
+  m_Name: SaveData
+  m_EditorClassIdentifier: Assembly-CSharp::SaveData
+  relicLockStates:
+  - id: 0
+    unlocked: 1
+  - id: 1
+    unlocked: 1
+  - id: 2
+    unlocked: 1
+  - id: 3
+    unlocked: 1
+  - id: 4
+    unlocked: 1
+  - id: 5
+    unlocked: 1
+  - id: 6
+    unlocked: 1
+  - id: 7
+    unlocked: 1
+  - id: 8
+    unlocked: 1
+  - id: 9
+    unlocked: 1
+  - id: 10
+    unlocked: 0
+  - id: 11
+    unlocked: 1
+  - id: 12
+    unlocked: 1
+  - id: 13
+    unlocked: 1
+  - id: 14
+    unlocked: 0
+  - id: 15
+    unlocked: 1
+  - id: 16
+    unlocked: 0
+  - id: 17
+    unlocked: 1
+  - id: 18
+    unlocked: 1
+  - id: 19
+    unlocked: 1
+  - id: 20
+    unlocked: 1
+  - id: 21
+    unlocked: 1
+  - id: 22
+    unlocked: 1
+  - id: 23
+    unlocked: 1
+  - id: 24
+    unlocked: 0
+  - id: 25
+    unlocked: 0
+  - id: 26
+    unlocked: 0
+  - id: 27
+    unlocked: 0
+  - id: 28
+    unlocked: 0
+  - id: 29
+    unlocked: 0
+  - id: 30
+    unlocked: 0
+  - id: 31
+    unlocked: 1
+  - id: 32
+    unlocked: 1
+  - id: 33
+    unlocked: 0
+  - id: 34
+    unlocked: 0
+  - id: 35
+    unlocked: 0
+  - id: 36
+    unlocked: 1
+  - id: 37
+    unlocked: 1
+  - id: 38
+    unlocked: 1
+  - id: 39
+    unlocked: 0
+  - id: 40
+    unlocked: 0
+  - id: 41
+    unlocked: 0
+  - id: 42
+    unlocked: 0
+  - id: 43
+    unlocked: 1
+  - id: 44
+    unlocked: 1
+  - id: 45
+    unlocked: 1
+  - id: 46
+    unlocked: 0
+  - id: 47
+    unlocked: 1
+  - id: 48
+    unlocked: 1
+  - id: 49
+    unlocked: 1
+  - id: 50
+    unlocked: 0
+  - id: 51
+    unlocked: 0
+  - id: 52
+    unlocked: 0
+  - id: 53
+    unlocked: 0
+  towerSeenStates: []
+  damageDealtToEnemies: 16464.467
+  blueDamageDealt: 0
+  redDamageDealt: 0
+  greenDamageDealt: 0
+  lightningDamageDealt: 1595.9011
+  fireDamageDealt: 1169.5541
+  poisonDamageDealt: 1061.6993
+  critDamageDealt: 0
+  critProcCount: 0
+  currencyCollected: 0
+  maxCurrencyCollected: 138
+  maxPlacedTowers: 0
+  purchasedTowerCount: 0
+  enemiesDefeated: 0
+  unlockedRelicCount: 0
+  seenTowerIDs: 
+  maxRedTagTowersPlaced: 3
+  maxBlueTagTowersPlaced: 2
+  maxGreenTagTowersPlaced: 4
+  maxPurpleTagTowersPlaced: 2
+  maxYellowTagTowersPlaced: 1
+  redCritsLanded: 137
+  blueCritsLanded: 99
+  greenCritsLanded: 822
+  yellowCritsLanded: 0
+  purpleCritsLanded: 3
+  orangeCritsLanded: 27
+  whiteCritsLanded: 1
+  cyanCritsLanded: 0
+  maxSingleHitDamage: 30
+  exposedDamageDealt: 430.52002
+  maxEnemiesHitByLaser: 3
+  maxLaserBounces: 2
+  maxTowersPlacedAtOnce: 5
+  maxAgentsOnField: 10
+  totalRerollCount: 14

@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a3bbf80dd729370429dd475949bb08f0, type: 3}
+  m_Name: UpgradeSO
+  m_EditorClassIdentifier: Assembly-CSharp::UpgradeSO
+  towerUpgrades:
+  - towerID: 0
+    upgrades:
+    - upgrades: 0000000037000000
+    - upgrades: 020000002f000000
+    - upgrades: 2500000001000000
+  - towerID: 2
+    upgrades:
+    - upgrades: 0400000011000000
+    - upgrades: 0400000031000000
+    - upgrades: 2500000026000000
+  - towerID: 1
+    upgrades:
+    - upgrades: 2600000043000000
+    - upgrades: 0b00000030000000
+    - upgrades: 0900000006000000
+  - towerID: 19
+    upgrades:
+    - upgrades: 3f00000026000000
+  - towerID: 22
+    upgrades:
+    - upgrades: 47000000
+  - towerID: 16
+    upgrades:
+    - upgrades: 4200000045000000
+  - towerID: 10
+    upgrades:
+    - upgrades: 3700000002000000
+    - upgrades: 110000003b000000
+  - towerID: 17
+    upgrades:
+    - upgrades: 190000004800000049000000
+    - upgrades: 4b000000
+    - upgrades: 4a000000
+  - towerID: 3
+    upgrades:
+    - upgrades: 43000000
+  - towerID: 4
+    upgrades:
+    - upgrades: 1a00000043000000
+    - upgrades: 1800000026000000
+    - upgrades: 170000002a000000
+  upgradeCostGlobalMultiplier: 2
+  upgradeCosts: []

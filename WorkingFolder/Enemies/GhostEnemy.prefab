@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2058244589609209066
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1033479130773559897, guid: 97cf7a0c568f6904cb6443c09f86edc1, type: 3}
+      propertyPath: rotationSpeed
+      value: 120
+      objectReference: {fileID: 0}
+    - target: {fileID: 1033479130773559897, guid: 97cf7a0c568f6904cb6443c09f86edc1, type: 3}
+      propertyPath: slowDecayRate
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1033479130773559897, guid: 97cf7a0c568f6904cb6443c09f86edc1, type: 3}
+      propertyPath: slowPercentageMax
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 1573402544046751864, guid: 97cf7a0c568f6904cb6443c09f86edc1, type: 3}
+      propertyPath: id
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 1573402544046751864, guid: 97cf7a0c568f6904cb6443c09f86edc1, type: 3}
+      propertyPath: value
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1573402544046751864, guid: 97cf7a0c568f6904cb6443c09f86edc1, type: 3}
+      propertyPath: xpValue
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1573402544046751864, guid: 97cf7a0c568f6904cb6443c09f86edc1, type: 3}
+      propertyPath: dangerScore
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 1573402544046751864, guid: 97cf7a0c568f6904cb6443c09f86edc1, type: 3}
+      propertyPath: progressionMinumum
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1573402544046751864, guid: 97cf7a0c568f6904cb6443c09f86edc1, type: 3}
+      propertyPath: srColorInfos.Array.data[0].colorType
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 2879588597272391195, guid: 97cf7a0c568f6904cb6443c09f86edc1, type: 3}
+      propertyPath: m_Name
+      value: GhostEnemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 5051675388352979075, guid: 97cf7a0c568f6904cb6443c09f86edc1, type: 3}
+      propertyPath: m_Color.b
+      value: 0.7783019
+      objectReference: {fileID: 0}
+    - target: {fileID: 5051675388352979075, guid: 97cf7a0c568f6904cb6443c09f86edc1, type: 3}
+      propertyPath: m_Color.g
+      value: 0.7783019
+      objectReference: {fileID: 0}
+    - target: {fileID: 5051675388352979075, guid: 97cf7a0c568f6904cb6443c09f86edc1, type: 3}
+      propertyPath: m_Color.r
+      value: 0.7783019
+      objectReference: {fileID: 0}
+    - target: {fileID: 5208375569231365008, guid: 97cf7a0c568f6904cb6443c09f86edc1, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.33954
+      objectReference: {fileID: 0}
+    - target: {fileID: 5208375569231365008, guid: 97cf7a0c568f6904cb6443c09f86edc1, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6.89156
+      objectReference: {fileID: 0}
+    - target: {fileID: 5208375569231365008, guid: 97cf7a0c568f6904cb6443c09f86edc1, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 29.44547
+      objectReference: {fileID: 0}
+    - target: {fileID: 5208375569231365008, guid: 97cf7a0c568f6904cb6443c09f86edc1, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5208375569231365008, guid: 97cf7a0c568f6904cb6443c09f86edc1, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5208375569231365008, guid: 97cf7a0c568f6904cb6443c09f86edc1, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5208375569231365008, guid: 97cf7a0c568f6904cb6443c09f86edc1, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5208375569231365008, guid: 97cf7a0c568f6904cb6443c09f86edc1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5208375569231365008, guid: 97cf7a0c568f6904cb6443c09f86edc1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5208375569231365008, guid: 97cf7a0c568f6904cb6443c09f86edc1, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5475510915353099129, guid: 97cf7a0c568f6904cb6443c09f86edc1, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8881733239676117781, guid: 97cf7a0c568f6904cb6443c09f86edc1, type: 3}
+      propertyPath: srColorInfos.Array.data[0].colorType
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 8881733239676117781, guid: 97cf7a0c568f6904cb6443c09f86edc1, type: 3}
+      propertyPath: srColorInfos.Array.data[1].alphaOverride
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 2879588597272391195, guid: 97cf7a0c568f6904cb6443c09f86edc1, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 2631792579613847851}
+  m_SourcePrefab: {fileID: 100100000, guid: 97cf7a0c568f6904cb6443c09f86edc1, type: 3}
+--- !u!1 &4280108625099842289 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2879588597272391195, guid: 97cf7a0c568f6904cb6443c09f86edc1, type: 3}
+  m_PrefabInstance: {fileID: 2058244589609209066}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &2631792579613847851
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4280108625099842289}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fd8f8436f1cb48288334fcdf467d090, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: '::'
+  triggerCondition: 1
+  triggerValue: 0.5
+  unlimited: 0
+  triggerLimit: 1
+  intervalSeconds: 1
+  healthThresholds:
+  - 0.5
+  ghostDuration: 5
+  ghostHealthPercentage: 0.5
+  goalUnghostDistance: 5
+  ghostOpacity: 0.2
+  goalDistanceCheckInterval: 0.25
